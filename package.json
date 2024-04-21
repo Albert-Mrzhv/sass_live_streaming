@@ -1,0 +1,11 @@
+{
+  "name": "sass_live_streaming",
+  "version": "1.0.0",
+  "description": "leaging page",
+  "sourse": "index.html",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch style:dist"
+  },
+  "author": "Albert Mr",
+  "license": "ISC"
+}
